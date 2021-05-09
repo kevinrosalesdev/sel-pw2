@@ -1,0 +1,25 @@
+F,NT,Feat_Freq,Accuracy,Train_Time,Classif_Time
+1,1,"{'Age': 0.0, 'SpectaclePrescrip': 0.0, 'Astigmatism': 0.0, 'TearProdRate': 1.0}",60.0,0:00:00.006486,0:00:00.000736
+2,1,"{'Age': 0.667, 'SpectaclePrescrip': 0.0, 'Astigmatism': 0.333, 'TearProdRate': 0.0}",20.0,0:00:00.030433,0:00:00.001529
+3,1,"{'Age': 0.5, 'SpectaclePrescrip': 0.25, 'Astigmatism': 0.25, 'TearProdRate': 0.0}",20.0,0:00:00.063854,0:00:00.001582
+,1,"{'Age': 0.5, 'SpectaclePrescrip': 0.5, 'Astigmatism': 0.0, 'TearProdRate': 0.0}",60.0,0:00:00.027739,0:00:00.001142
+1,10,"{'Age': 0.1, 'SpectaclePrescrip': 0.2, 'Astigmatism': 0.3, 'TearProdRate': 0.4}",60.0,0:00:00.079072,0:00:00.007048
+2,10,"{'Age': 0.368, 'SpectaclePrescrip': 0.158, 'Astigmatism': 0.263, 'TearProdRate': 0.211}",60.0,0:00:00.239000,0:00:00.011219
+3,10,"{'Age': 0.25, 'SpectaclePrescrip': 0.125, 'Astigmatism': 0.125, 'TearProdRate': 0.5}",60.0,0:00:00.314449,0:00:00.009250
+,10,"{'Age': 0.0, 'SpectaclePrescrip': 0.0, 'Astigmatism': 0.1, 'TearProdRate': 0.9}",60.0,0:00:00.214120,0:00:00.006969
+1,25,"{'Age': 0.44, 'SpectaclePrescrip': 0.28, 'Astigmatism': 0.08, 'TearProdRate': 0.2}",60.0,0:00:00.250213,0:00:00.023213
+2,25,"{'Age': 0.333, 'SpectaclePrescrip': 0.133, 'Astigmatism': 0.267, 'TearProdRate': 0.267}",60.0,0:00:00.553312,0:00:00.024619
+3,25,"{'Age': 0.346, 'SpectaclePrescrip': 0.173, 'Astigmatism': 0.173, 'TearProdRate': 0.308}",60.0,0:00:00.899573,0:00:00.028683
+,25,"{'Age': 0.237, 'SpectaclePrescrip': 0.158, 'Astigmatism': 0.237, 'TearProdRate': 0.368}",60.0,0:00:00.583000,0:00:00.020844
+1,50,"{'Age': 0.24, 'SpectaclePrescrip': 0.22, 'Astigmatism': 0.18, 'TearProdRate': 0.36}",60.0,0:00:00.426746,0:00:00.036151
+2,50,"{'Age': 0.227, 'SpectaclePrescrip': 0.227, 'Astigmatism': 0.16, 'TearProdRate': 0.387}",60.0,0:00:01.021689,0:00:00.042698
+3,50,"{'Age': 0.216, 'SpectaclePrescrip': 0.108, 'Astigmatism': 0.108, 'TearProdRate': 0.568}",60.0,0:00:01.512517,0:00:00.042478
+,50,"{'Age': 0.243, 'SpectaclePrescrip': 0.189, 'Astigmatism': 0.135, 'TearProdRate': 0.432}",60.0,0:00:01.281713,0:00:00.044447
+1,75,"{'Age': 0.347, 'SpectaclePrescrip': 0.2, 'Astigmatism': 0.213, 'TearProdRate': 0.24}",60.0,0:00:00.696266,0:00:00.053945
+2,75,"{'Age': 0.328, 'SpectaclePrescrip': 0.192, 'Astigmatism': 0.176, 'TearProdRate': 0.304}",60.0,0:00:01.672663,0:00:00.074725
+3,75,"{'Age': 0.279, 'SpectaclePrescrip': 0.14, 'Astigmatism': 0.14, 'TearProdRate': 0.442}",60.0,0:00:02.479262,0:00:00.082382
+,75,"{'Age': 0.233, 'SpectaclePrescrip': 0.126, 'Astigmatism': 0.165, 'TearProdRate': 0.476}",60.0,0:00:01.901274,0:00:00.065832
+1,100,"{'Age': 0.26, 'SpectaclePrescrip': 0.33, 'Astigmatism': 0.17, 'TearProdRate': 0.24}",60.0,0:00:00.881547,0:00:00.075667
+2,100,"{'Age': 0.257, 'SpectaclePrescrip': 0.222, 'Astigmatism': 0.234, 'TearProdRate': 0.287}",60.0,0:00:02.105914,0:00:00.092944
+3,100,"{'Age': 0.216, 'SpectaclePrescrip': 0.108, 'Astigmatism': 0.108, 'TearProdRate': 0.568}",60.0,0:00:03.023350,0:00:00.089513
+,100,"{'Age': 0.253, 'SpectaclePrescrip': 0.171, 'Astigmatism': 0.192, 'TearProdRate': 0.384}",60.0,0:00:02.553560,0:00:00.086595
