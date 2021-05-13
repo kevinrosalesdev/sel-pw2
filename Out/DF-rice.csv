@@ -1,0 +1,25 @@
+F,NT,Feat_Freq,Accuracy,Train_Time,Classif_Time
+1,1,"{'area': 0.0, 'perimeter': 1.0, 'majoraxis': 0.0, 'minoraxis': 0.0, 'eccentricity': 0.0, 'convex_area': 0.0, 'extent': 0.0}",90.157,0:00:28.587609,0:00:00.548687
+3,1,"{'area': 0.0, 'perimeter': 0.0, 'majoraxis': 0.556, 'minoraxis': 0.111, 'eccentricity': 0.0, 'convex_area': 0.0, 'extent': 0.333}",91.47,0:01:07.528785,0:00:00.506671
+5,1,"{'area': 0.0, 'perimeter': 0.1, 'majoraxis': 0.6, 'minoraxis': 0.1, 'eccentricity': 0.1, 'convex_area': 0.1, 'extent': 0.0}",91.601,0:01:58.219183,0:00:00.603344
+,1,"{'area': 0.0, 'perimeter': 0.455, 'majoraxis': 0.0, 'minoraxis': 0.0, 'eccentricity': 0.364, 'convex_area': 0.0, 'extent': 0.182}",90.157,0:01:43.881327,0:00:00.601410
+1,10,"{'area': 0.056, 'perimeter': 0.113, 'majoraxis': 0.38, 'minoraxis': 0.056, 'eccentricity': 0.225, 'convex_area': 0.085, 'extent': 0.085}",91.339,0:03:40.682535,0:00:04.219011
+3,10,"{'area': 0.128, 'perimeter': 0.092, 'majoraxis': 0.275, 'minoraxis': 0.11, 'eccentricity': 0.202, 'convex_area': 0.128, 'extent': 0.064}",91.207,0:14:40.674708,0:00:07.726487
+5,10,"{'area': 0.036, 'perimeter': 0.286, 'majoraxis': 0.116, 'minoraxis': 0.009, 'eccentricity': 0.25, 'convex_area': 0.098, 'extent': 0.205}",90.157,0:23:37.145773,0:00:07.129514
+,10,"{'area': 0.023, 'perimeter': 0.172, 'majoraxis': 0.322, 'minoraxis': 0.057, 'eccentricity': 0.115, 'convex_area': 0.08, 'extent': 0.23}",91.601,0:16:42.484762,0:00:05.178814
+1,25,"{'area': 0.101, 'perimeter': 0.101, 'majoraxis': 0.228, 'minoraxis': 0.076, 'eccentricity': 0.152, 'convex_area': 0.304, 'extent': 0.038}",87.533,0:08:22.866189,0:00:10.374665
+3,25,"{'area': 0.082, 'perimeter': 0.214, 'majoraxis': 0.221, 'minoraxis': 0.129, 'eccentricity': 0.171, 'convex_area': 0.089, 'extent': 0.093}",90.551,0:34:27.319443,0:00:15.466839
+5,25,"{'area': 0.05, 'perimeter': 0.212, 'majoraxis': 0.309, 'minoraxis': 0.027, 'eccentricity': 0.154, 'convex_area': 0.062, 'extent': 0.185}",91.601,0:53:17.964414,0:00:16.570616
+,25,"{'area': 0.054, 'perimeter': 0.131, 'majoraxis': 0.344, 'minoraxis': 0.027, 'eccentricity': 0.145, 'convex_area': 0.176, 'extent': 0.122}",91.601,0:39:27.479921,0:00:13.173061
+1,50,"{'area': 0.061, 'perimeter': 0.219, 'majoraxis': 0.191, 'minoraxis': 0.109, 'eccentricity': 0.219, 'convex_area': 0.073, 'extent': 0.128}",88.583,0:17:18.896883,0:00:20.041059
+3,50,"{'area': 0.057, 'perimeter': 0.268, 'majoraxis': 0.17, 'minoraxis': 0.109, 'eccentricity': 0.161, 'convex_area': 0.125, 'extent': 0.109}",90.289,0:59:21.308856,0:00:28.941048
+5,50,"{'area': 0.032, 'perimeter': 0.214, 'majoraxis': 0.384, 'minoraxis': 0.028, 'eccentricity': 0.105, 'convex_area': 0.087, 'extent': 0.149}",91.601,1:34:30.137002,0:00:28.654178
+,50,"{'area': 0.052, 'perimeter': 0.197, 'majoraxis': 0.303, 'minoraxis': 0.059, 'eccentricity': 0.138, 'convex_area': 0.096, 'extent': 0.155}",91.601,1:14:42.121912,0:00:24.514610
+1,75,"{'area': 0.066, 'perimeter': 0.197, 'majoraxis': 0.203, 'minoraxis': 0.09, 'eccentricity': 0.148, 'convex_area': 0.111, 'extent': 0.185}",88.583,0:24:49.731326,0:00:28.714100
+3,75,"{'area': 0.066, 'perimeter': 0.234, 'majoraxis': 0.202, 'minoraxis': 0.127, 'eccentricity': 0.16, 'convex_area': 0.136, 'extent': 0.076}",90.682,1:27:10.743067,0:00:41.070049
+5,75,"{'area': 0.048, 'perimeter': 0.211, 'majoraxis': 0.368, 'minoraxis': 0.035, 'eccentricity': 0.125, 'convex_area': 0.081, 'extent': 0.131}",91.601,2:31:09.915837,0:00:49.920902
+,75,"{'area': 0.073, 'perimeter': 0.162, 'majoraxis': 0.305, 'minoraxis': 0.056, 'eccentricity': 0.138, 'convex_area': 0.118, 'extent': 0.148}",91.601,1:56:32.866824,0:00:44.061483
+1,100,"{'area': 0.1, 'perimeter': 0.15, 'majoraxis': 0.168, 'minoraxis': 0.075, 'eccentricity': 0.237, 'convex_area': 0.121, 'extent': 0.15}",88.583,0:35:08.286608,0:00:40.727847
+3,100,"{'area': 0.088, 'perimeter': 0.167, 'majoraxis': 0.248, 'minoraxis': 0.127, 'eccentricity': 0.151, 'convex_area': 0.116, 'extent': 0.103}",91.207,2:15:22.096773,0:01:01.842000
+5,100,"{'area': 0.039, 'perimeter': 0.187, 'majoraxis': 0.373, 'minoraxis': 0.03, 'eccentricity': 0.126, 'convex_area': 0.087, 'extent': 0.158}",91.601,3:33:59.505069,0:01:01.030497
+,100,"{'area': 0.049, 'perimeter': 0.17, 'majoraxis': 0.303, 'minoraxis': 0.055, 'eccentricity': 0.155, 'convex_area': 0.132, 'extent': 0.136}",91.601,2:47:54.126744,0:00:55.335449
